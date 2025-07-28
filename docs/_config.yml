@@ -27,7 +27,7 @@ url: "https://emlhe.github.io/" # the base hostname & protocol for your site, e.
 github_username:  emlhe
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
