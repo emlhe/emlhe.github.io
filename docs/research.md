@@ -8,7 +8,7 @@ title: Research
 
 ### **PhD thesis**
 
-**Morphometric changes in 1 to 4 years old children with cerebral palsy after HABIT-ILE therapy**
+**Brain morpho-structural changes in 1 to 4 years old children with cerebral palsy after HABIT-ILE therapy**
 *Ongoing* 
 <br />
 
