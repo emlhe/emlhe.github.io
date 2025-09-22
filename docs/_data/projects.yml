@@ -1,0 +1,9 @@
+- name: Synthseg stroke
+  icon: img_proj_1.png
+  description: In this project, we use the synthseg approach from Billot et al. 2020 to generate synthetic brains with lesions (e.g. stroke lesions) from whole brain labels for segmentations tasks.
+  link: https://github.com/emlhe/Synthseg-lesion
+
+- name: Paediatric stroke lesion segmentation
+  icon: img_proj_2.png
+  description: The aim of this project is to accurately segment stroke lesions from a paediatric dataset transferring knowledge from publicly available adult data using recent deep learning methods
+  link: https://ieeexplore.ieee.org/document/10635273

@@ -52,3 +52,7 @@ Poster presentation at [IABM 2025](https://iabm2025.sciencesconf.org/) : Apprent
 Poster presentation at Journée des doctorants de l'école doctoral Sciences de la Vie et de la Santé 2024
 
 Poster presentation at [IABM 2024](https://iabm2024.sciencesconf.org/)
+
+---
+<br />
+*Last updated: sept 2025*
